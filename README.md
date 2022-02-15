@@ -1,1 +1,1 @@
-# javascript-learning
+# javascript-adding two numbers
